@@ -18,7 +18,7 @@ The dashboard is designed to help **supply chain managers, procurement teams, an
 
 ## 🔗 Author  
 👤 **By Subodh Shahare™**  
-🌐 [Portfolio Website](#) | 💼 [LinkedIn](#) | 📧 your.email@example.com
+🌐 [Portfolio Website]([#](https://subodh-s.my.canva.site/home)) | 💼 [LinkedIn](https://www.linkedin.com/in/subodhshahare) | 
 
 ---
 
@@ -114,7 +114,12 @@ This dashboard delivers **end-to-end supply chain visibility** in Excel, giving 
 
 ---
 
-## 📬 Let's Connect  
-💼 [LinkedIn](#)  
-🌐 [Portfolio Website](#)  
-📧 your.email@example.com  
+## 📬 Let's Connect
+
+I'm actively exploring new opportunities and collaborations!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/subodhshahare)  
+- 🌐 [My Portfolio Website](https://subodh-s.my.canva.site/home)  
+- 📧 [Email](mailto:Subodh.shahare@gmail.com)
+
+---

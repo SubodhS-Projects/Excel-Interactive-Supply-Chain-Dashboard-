@@ -18,7 +18,7 @@ The dashboard is designed to help **supply chain managers, procurement teams, an
 
 ## 🔗 Author  
 👤 **By Subodh Shahare™**  
-🌐 [Portfolio Website](https://subodh-s.my.canva.site/home)) | 💼 [LinkedIn](https://www.linkedin.com/in/subodhshahare) | 
+🌐 [Portfolio Website](https://subodh-s.my.canva.site/home) | 💼 [LinkedIn](https://www.linkedin.com/in/subodhshahare) | 
 
 ---
 

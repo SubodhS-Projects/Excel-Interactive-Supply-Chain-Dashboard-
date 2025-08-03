@@ -53,7 +53,7 @@ This dashboard consolidates all supply chain metrics into **a single interactive
 
 ### Steps to Explore
 1. **Clone this repository or download Supply_Chain_Dashboard.zip** 
-2. Open `Supply_Chain_Dashboard.xlsx`
+2. Extreat the Supply_Chain_Dashboard.zip & Open `Supply_Chain_Dashboard.xlsx`
 3. Explore each report section using slicers and filters
    
 Use slicers to filter by:

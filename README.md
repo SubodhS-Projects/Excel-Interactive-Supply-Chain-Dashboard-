@@ -93,7 +93,6 @@ Use slicers to filter by:
 | **Top City**         | Pune – ₹116,000 sales |
 | **Top Category**     | Electronics – 75% of total sales |
 | **Highest Cost**     | Supplier Z – 117 units shipping cost |
-| **Longest Lead Time**| Supplier Z |
 | **Lowest Category Share** | Accessories – 4% |
 
 ---

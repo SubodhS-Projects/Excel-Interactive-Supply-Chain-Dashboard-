@@ -1,11 +1,8 @@
-# Excel-Interactive Supply Chain Dashboard
-Excel Interactive Supply Chain Dashboard 
 # 📦 Excel Interactive Supply Chain Dashboard
 
 ![Excel](https://img.shields.io/badge/Excel-Dashboard-brightgreen?style=for-the-badge&logo=microsoft-excel)
 ![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue?style=for-the-badge&logo=databricks)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
 
 ## 🎯 Project Overview
 This **Excel-based Interactive Supply Chain Dashboard** provides organizations with **real-time, filterable insights** into:
@@ -52,7 +49,7 @@ This dashboard consolidates all supply chain metrics into **a single interactive
 ## ▶️ Getting Started
 
 ### Prerequisites
-- Microsoft Excel 2016 or later (**Power Pivot enabled** recommended)
+- Microsoft Excel 2016 or later 
 
 ### Steps to Explore
 1. **Clone this repository** or [Download as ZIP](#)
@@ -73,9 +70,7 @@ This dashboard consolidates all supply chain metrics into **a single interactive
 | **Microsoft Excel**    | Dashboard creation |
 | **Pivot Tables/Charts**| Data aggregation |
 | **Slicers**            | Interactive filtering |
-| **Power Pivot**        | Data modeling |
 | **Conditional Formatting** | KPI highlighting |
-
 ---
 
 ## 📋 Dashboard Contents

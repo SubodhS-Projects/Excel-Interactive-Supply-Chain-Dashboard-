@@ -52,9 +52,10 @@ This dashboard consolidates all supply chain metrics into **a single interactive
 - Microsoft Excel 2016 or later 
 
 ### Steps to Explore
-1. **Clone this repository or download Supply_Chain_Dashboard.zip** 
-2. Extreat the Supply_Chain_Dashboard.zip & Open `Supply_Chain_Dashboard.xlsx`
-3. Explore each report section using slicers and filters
+1. Clone this repository or download `Supply_Chain_Dashboard.zip`
+3. Extract the `Supply_Chain_Dashboard.zip` on your computer
+4. Open `Supply_Chain_Dashboard.xlsx`
+5. Explore each report section using slicers and filters
    
 Use slicers to filter by:
    - 📅 Year & Month

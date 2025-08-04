@@ -62,7 +62,7 @@ Use slicers to filter by:
    - 📍 City
    - 🏢 Supplier
    - 🏷️ Product Category
-   - 
+     
 6. Review charts and KPIs for insights
 
 ---

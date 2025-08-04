@@ -30,7 +30,7 @@ Most businesses store fragmented supply chain data across spreadsheets, making i
 - Which supplier is cost-effective?
 - Where are the delays happening?
 
-This dashboard consolidates all supply chain metrics into **a single interactive Excel file**, using **Pivot Tables, Charts, Slicers, and Power Pivot** for easy exploration.
+This dashboard consolidates all supply chain metrics into **a single interactive Excel file**, using **Pivot Tables, Charts, Slicers, and Power Query** for easy exploration.
 
 ---
 
@@ -62,7 +62,8 @@ Use slicers to filter by:
    - 📍 City
    - 🏢 Supplier
    - 🏷️ Product Category
-5. Review charts and KPIs for insights
+   - 
+6. Review charts and KPIs for insights
 
 ---
 

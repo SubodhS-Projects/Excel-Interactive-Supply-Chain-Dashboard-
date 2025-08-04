@@ -53,9 +53,9 @@ This dashboard consolidates all supply chain metrics into **a single interactive
 
 ### Steps to Explore
 1. Clone this repository or download `Supply_Chain_Dashboard.zip`
-3. Extract the `Supply_Chain_Dashboard.zip` on your computer
-4. Open `Supply_Chain_Dashboard.xlsx`
-5. Explore each report section using slicers and filters
+2. Extract the `Supply_Chain_Dashboard.zip` on your computer
+3. Open `Supply_Chain_Dashboard.xlsx`
+4. Explore each report section using slicers and filters
    
 Use slicers to filter by:
    - 📅 Year & Month
@@ -63,7 +63,7 @@ Use slicers to filter by:
    - 🏢 Supplier
    - 🏷️ Product Category
      
-6. Review charts and KPIs for insights
+5. Review charts and KPIs for insights
 
 ---
 
